@@ -70,4 +70,4 @@ Create an elbow plot to identify the best number of clusters. Make sure to do th
 
 Based on your findings, write up a brief (one or two sentences) recommendation. Can the patients be clustered? If so, into how many clusters? 
 
-From the evaluation of the results, the K-means method and Elbow curve plot indicates that clustering takes place between five and six. I would agree that clustering is possible. More distinction exists in 6 clusters.
+Clustering can be defined as the task of dividing the population or data points into a number of groups such that data points in the same groups are more similar to other data points in the same group than those in other groups. In simple words, the aim is to segregate groups with similar traits and assign them into clusters. Sometimes the data points in a scatter plot form distinct groups.  From the evaluation, the K-means method and Elbow curve plot indicates that clustering takes place between five and six. I would agree that clustering is possible with the most distinction existing in 6 clusters.
